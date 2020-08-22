@@ -119,3 +119,7 @@
 # Mongo CRUD Deep
 
 [CREATE, Diving Deeper Into CREATE](https://www.notion.so/CREATE-Diving-Deeper-Into-CREATE-a605e329d30c4d91b45ddd26b5321c8a)
+
+[What is Operator?](https://www.notion.so/What-is-Operator-c59ffc2366504b3e978604bb1a63938b)
+
+[Reading Documents with Operators (Query & Projection Operators)](https://www.notion.so/Reading-Documents-with-Operators-Query-Projection-Operators-1f85864a56b24132b8bdd820c06f2324)

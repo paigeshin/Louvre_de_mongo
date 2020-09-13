@@ -125,3 +125,7 @@
 [Reading Documents with Operators (Query & Projection Operators)](https://www.notion.so/Reading-Documents-with-Operators-Query-Projection-Operators-1f85864a56b24132b8bdd820c06f2324)
 
 [Update Operations](https://www.notion.so/Update-Operations-b2b7b4c6c78d4805a080d49682cd2447)
+
+# Working with index
+
+[Working with Indexes](https://www.notion.so/Working-with-Indexes-784560350e5e40308f34b8180ebd7236)

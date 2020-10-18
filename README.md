@@ -2,6 +2,27 @@
 
 ### I created this repository because mongo DB can be used on many server languages...
 
+# Indexes
+
+1. Introduction
+2. Basics & Basic CRUD
+3. Data Schema & Relations
+4. Working with the Shell
+5. Using Compass 
+6. CRUD Deep Dive - Create 
+7. CRUD Deep Dive - Read
+8. CRUD Deep Dive - Update
+9. CRUD Deep Dive - Delete
+10. **Using Indexes (Speed up your query)**
+11. Working with Geospatial Data
+12. The Aggregation Framework
+13. Working with Numeric Data
+14. **Security & Authentication**
+15. **Performance, Fault Tolerance & Deployment**
+16. **Transactions**
+17. **From Shell to Drivers**
+18. **MongoDB Stitch ⇒ Serverless Functions**
+
 # Mongo
 
 [Atlas & Mongo Installation ](https://www.notion.so/Atlas-Mongo-Installation-c3dc01a0b736479ea1813dded6d233cb)
@@ -63,8 +84,6 @@
 
 [Mongo Shell Comprehensive Basic and its methods, it covers the essentail CRUD](https://www.notion.so/Mongo-Shell-Comprehensive-Basic-and-its-methods-it-covers-the-essentail-CRUD-f22e061ab5034e96a715c51054b499cf)
 
-[Mongo DB Shell Exam sheet](https://www.notion.so/Mongo-DB-Shell-Exam-sheet-f74fb7da236742a99cfd5bebf92b696e)
-
 [Schemas & Relations: How to Structure Documents, practice](https://www.notion.so/Schemas-Relations-How-to-Structure-Documents-practice-2bdb11d084fa4a6cbdb14f31e7c98e77)
 
 [Joining with $lookup (Merge Document)](https://www.notion.so/Joining-with-lookup-Merge-Document-9f012a890dcf4816a90fec5d19af1802)
@@ -74,6 +93,34 @@
 [Schema Validation, and how to add Schema Validation ](https://www.notion.so/Schema-Validation-and-how-to-add-Schema-Validation-c082a29b4bcb4467af1a0ffd22edadb5)
 
 [Data Modelling & Structuring - Things to Consider ](https://www.notion.so/Data-Modelling-Structuring-Things-to-Consider-f7e06160bb374c52adeeb333d3a2b285)
+
+[Set mongo, data `path`, log path](https://www.notion.so/Set-mongo-data-path-log-path-6f1068b3c19f4603bc033834f6cc51d7)
+
+[fork, MongoDB as background service](https://www.notion.so/fork-MongoDB-as-background-service-352e819904964de0965bbdf975c32751)
+
+[Using a config file](https://www.notion.so/Using-a-config-file-a4f596608d3445bda9b37ac71df712ff)
+
+[Mongo Shell Options & Help](https://www.notion.so/Mongo-Shell-Options-Help-c5163d7cbdb34ebe8cc5ea3e83dc05ad)
+
+[Details about Config, Shell, Server](https://www.notion.so/Details-about-Config-Shell-Server-53794bb17f8a4aa0812b2a9dfcba8551)
+
+[Using Mongo Compass](https://www.notion.so/Using-Mongo-Compass-5a366727096b4eda8d29cc3b672c9f20)
+
+[CREATE, Diving Deeper Into CREATE](https://www.notion.so/CREATE-Diving-Deeper-Into-CREATE-a605e329d30c4d91b45ddd26b5321c8a)
+
+[What is Operator?](https://www.notion.so/What-is-Operator-c59ffc2366504b3e978604bb1a63938b)
+
+[Reading Documents with Operators (Query & Projection Operators)](https://www.notion.so/Reading-Documents-with-Operators-Query-Projection-Operators-1f85864a56b24132b8bdd820c06f2324)
+
+[Update Operations](https://www.notion.so/Update-Operations-b2b7b4c6c78d4805a080d49682cd2447)
+
+[Delete Operations](https://www.notion.so/Delete-Operations-c829f9e765a641f19645e9f964a683ef)
+
+[Working with Indexes](https://www.notion.so/Working-with-Indexes-784560350e5e40308f34b8180ebd7236)
+
+[GEO Spatial data](https://www.notion.so/GEO-Spatial-data-e33bdd6943034ddd94e5fc3d105498c2)
+
+[Understanding the Aggregation Framework Part - 1](https://www.notion.so/Understanding-the-Aggregation-Framework-Part-1-b301bb8c31ea49f28e7280dbc9dd98f7)
 
 
 # Mongo DB Important Subjects
@@ -129,3 +176,7 @@
 # Working with index
 
 [Working with Indexes](https://www.notion.so/Working-with-Indexes-784560350e5e40308f34b8180ebd7236)
+
+# Aggregation Framework
+
+[Understanding the Aggregation Framework Part - 1](https://www.notion.so/Understanding-the-Aggregation-Framework-Part-1-b301bb8c31ea49f28e7280dbc9dd98f7)

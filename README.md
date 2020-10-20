@@ -122,6 +122,7 @@
 
 [Understanding the Aggregation Framework Part - 1](https://www.notion.so/Understanding-the-Aggregation-Framework-Part-1-b301bb8c31ea49f28e7280dbc9dd98f7)
 
+[Understanding the Aggregation Framework Part - 2](https://www.notion.so/Understanding-the-Aggregation-Framework-Part-2-9182a25318144caa90f6bbb67d985ac3)
 
 # Mongo DB Important Subjects
 
@@ -180,3 +181,5 @@
 # Aggregation Framework
 
 [Understanding the Aggregation Framework Part - 1](https://www.notion.so/Understanding-the-Aggregation-Framework-Part-1-b301bb8c31ea49f28e7280dbc9dd98f7)
+
+[Understanding the Aggregation Framework Part - 2](https://www.notion.so/Understanding-the-Aggregation-Framework-Part-2-9182a25318144caa90f6bbb67d985ac3)

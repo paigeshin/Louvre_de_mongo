@@ -126,6 +126,8 @@
 
 [Working with Numeric Data](https://www.notion.so/Working-with-Numeric-Data-7c66aec02cc6474e980075a9562a1dee)
 
+[MongoDB & Security](https://www.notion.so/MongoDB-Security-a6ad20a0b2fe4885a4f59b84a3bd1f26)
+
 # Mongo DB Important Subjects
 
 [Mongo DB Datatype, on louvre de node and cs](https://www.notion.so/Mongo-DB-Datatype-on-louvre-de-node-and-cs-2aa7c1c577074b79af7e71c3dddd1f9d)

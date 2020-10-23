@@ -128,6 +128,9 @@
 
 [MongoDB & Security](https://www.notion.so/MongoDB-Security-a6ad20a0b2fe4885a4f59b84a3bd1f26)
 
+[Performance, Fault Tolerance & Deployment](https://www.notion.so/Performance-Fault-Tolerance-Deployment-296d288edeef4fccbc88703a6b64f18b)
+
+
 # Mongo DB Important Subjects
 
 [Mongo DB Datatype, on louvre de node and cs](https://www.notion.so/Mongo-DB-Datatype-on-louvre-de-node-and-cs-2aa7c1c577074b79af7e71c3dddd1f9d)

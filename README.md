@@ -130,6 +130,8 @@
 
 [Performance, Fault Tolerance & Deployment](https://www.notion.so/Performance-Fault-Tolerance-Deployment-296d288edeef4fccbc88703a6b64f18b)
 
+[Transactions - Fail Together](https://www.notion.so/Transactions-Fail-Together-c57742da1f564fadb880f772b8f72f64)
+
 
 # Mongo DB Important Subjects
 

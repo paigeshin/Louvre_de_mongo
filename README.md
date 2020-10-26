@@ -132,6 +132,8 @@
 
 [Transactions - Fail Together](https://www.notion.so/Transactions-Fail-Together-c57742da1f564fadb880f772b8f72f64)
 
+[From Shell to Driver](https://www.notion.so/From-Shell-to-Driver-da94f97231894d639395c0445306fc89)
+
 
 # Mongo DB Important Subjects
 
